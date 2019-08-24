@@ -1,0 +1,2 @@
+1   Enter your name in 1st text filed
+2   Enter your password in 2nd text field
