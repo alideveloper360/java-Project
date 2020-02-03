@@ -1,3 +1,4 @@
 # java-Project
-Java project 
-Hello World
+Java project using GUI
+using file handling base data storage....
+Performs all crud operations with Graphical User Interface (GUI)...
